@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.myHeader {
+    background: red;
+    width: 100%;
+    height: 30px;
+}
+.btn {
+    color: white;
+    height: 30px;
+    background: green;
+    outline: 0;
+    border: none;
+}
+#container {
+    width: 100%;
+    position: ;
+    height: 0px;
+    background: brown;
+    -webkit-transform-origin: top;
+    transform-origin: top;
+    -webkit-transform: scaleY(0);
+    transform: scaleY(0);
+}
+ul li {
+    padding: 10px;
+    font-size: 20px;
+    list-style-type: ;
+    color: white
+}
+.sub_container {
+    width: 100%;
+    height: 300px;
+    background: #ddd;
+    position: fixed;
+    
+}

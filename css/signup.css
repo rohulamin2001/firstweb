@@ -1,0 +1,90 @@
+*{margin:0;padding:0;}
+
+.maindiv {
+    height: 540px;
+    width: 994px;
+    background: #dddddd8f;
+    margin: auto;
+    margin-top:46px;
+}
+.yourname {
+    margin-top: 31px;
+    padding: 10px;
+    font-size: 25px;
+    color: #804f4f;
+    padding-left: 167px;
+    }
+	
+	.firstinput {
+    padding: 15px;
+    margin-top: 0px;
+    padding-left: 164px;
+}
+
+.firstinput input{
+    padding: 17px;
+    width: 667px;
+    font-size: 18px;
+    background: #dddddd00;
+    border: none;
+    border-bottom: 1px solid black;
+    }
+	
+	.youremail{
+    margin-top: 6px;
+    padding: 10px;
+    font-size: 25px;
+    color: #804f4f;
+    padding-left: 167px;
+    }
+	
+	.secondinput{ padding: 15px;
+    margin-top: 0px;
+    padding-left: 164px;}
+	
+	.secondinput input{
+    padding: 17px;
+    width: 667px;
+    font-size: 18px;
+    background: #dddddd00;
+    border: none;
+    border-bottom: 1px solid black;
+    }
+	.create {
+    font-size: 33px;
+    padding-left: 331px;
+    padding-top: 72px;
+    color: #007600b8;
+}
+
+.button input{
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 40px;
+    border: none;
+    background: #00800030;
+    color: #ffffff;
+    box-shadow: 0 0 3px black;
+    }
+.button{padding-left: 164px;}
+
+.secondinput input:hover{background: #dddddd;
+    box-shadow: 0 0 3px black;
+    transform: scale(.95);
+    transition: transform .8s;}
+
+
+.firstinput input:hover{background: #dddddd;
+    box-shadow: 0 0 3px black;
+    transform: scale(.95);
+    transition: transform .8s;}
+body{background-image: url(file:///F:/html/image/11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+	font-family:sans-serif;}
+
+
+
+
+
+

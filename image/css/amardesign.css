@@ -1,0 +1,46 @@
+body{font-family:arial}
+#mainDiv{Width:846px;margin:auto;}
+
+#secondDiv{background: #666666;
+    text-align: center;
+    padding:20px;
+    color: white;
+}
+#thirdDiv{overflow:hidden;background:#cccccc;color:#0044f2;width:213px;height:320px;float:left;}
+
+#fordiv{    background: #f1f1f1;
+    overflow: hidden;
+    padding: 20px;
+    padding-bottom: 117px;
+    width: 593px;
+}
+#fiveDiv{   background: #777777;
+    color: white;
+    padding: 16px;
+    text-align: center;
+    overflow: hidden;-webkit-transition:;transition:}
+#subDiv{overflow:hidden;color:#b714ff;
+}
+
+
+
+.css-alengm{
+    
+    overflow: hidden;
+    display: inherit;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-transition: 1s;
+    transition: 1s;
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+

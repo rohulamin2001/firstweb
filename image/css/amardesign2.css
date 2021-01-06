@@ -1,0 +1,53 @@
+
+#mainbody{
+	font-family:arial;
+	background-image:url(image/bba.png);background-repeat:no-repeat;background-size:cover}
+#MainDiv{
+	Width: 350px;
+    margin: auto;
+    background: #0000003b;
+	
+  }
+#information{
+	}
+#subinformation{ background: #2b65e3;
+    color: white;
+    width: 300px;
+    padding: 10px;
+    margin: 14px;
+	}
+#personalinformation{
+	padding: 10px;
+    margin: 6px;
+	width: 323px;
+	background: #1b2a4470;
+	color: white;}
+#subdiv{text-align:center}
+#selection{      padding: 10px;
+    margin: 14px;
+    width: 320px;
+    background: #2b65e3;
+    text-align: center;}
+#seconddiv{background: #063d9b45;
+    color: white;
+    width: 300px;
+    padding: 10px;
+    margin: 14px;
+    text-align: center;}
+#selectiondiv{width:350px;text-align:center}
+#submitbutton{width: 330px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 50px;
+}
+#button{
+	padding: 10px;
+    margin: 6px;
+    width: 323px;
+    border-radius: 10px;
+	background:#2b65e36b;}
+	#inform{color:white}
+	
+#formation{color:white}
+#inform{color:white}
+

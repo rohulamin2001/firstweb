@@ -1,0 +1,22 @@
+.menudiv{background: #554f4f;
+    color: white;
+    width: 150px}
+.dropdowndiv{width:150px;background: #4e904e;color:white;}
+
+li {
+    list-style-type: none;
+    padding: 16px;
+}
+
+.dropdowndiv:hover {
+    background: green;
+}
+
+
+.menudiv:hover {
+    background: black;
+}
+.menudiv{display:inlin-block;}
+.dropdowndiv{display:none;position:relative;}
+
+.menudiv:hover .dropdowndiv{display:block;position:absolute;}

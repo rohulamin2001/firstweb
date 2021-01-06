@@ -1,0 +1,36 @@
+@media(max-width:768px){
+
+
+.maindiv {
+    width: 100%;
+}
+.create {
+    padding-left: 62px;
+}
+
+.yourname {
+    padding-left: 62px;
+}
+.youremail{
+    padding-left: 62px;
+}
+
+.firstinput {
+    padding-left: 62px;
+    margin-top: -5px;
+}
+.secondinput {
+    padding-left: 62px;
+    margin-top: -5px;
+}
+
+.firstinput input {
+    width: 80%;
+}
+.secondinput input {
+    width: 80%;
+}
+.button {
+    padding-left: 62px;
+}
+}

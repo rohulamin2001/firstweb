@@ -1,0 +1,115 @@
+*{margin:0;padding:0;}
+.navigationber{background: #ffffff;float: right;width:100%;}
+.navigationber input, .navigationber2 input{padding:10px;text-align:center;float: right;width: 90px;margin-top: 2px;background: white;border: none;outline: 0;}
+.navigationber2{background: #fff;float: right;width:100%;}
+
+
+.imagediv{
+   background-image: url(../image/077.jpg);
+    width: 100%;
+    height: 640px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    margin-top: 73px;
+    }
+
+.image{width: 400px;height: 590px;background: #ffffff6b;float: left;margin: 23px;border: 1px solid orange;}
+.image img{max-width: 400px;height: 427px;width: 400px;}
+
+.navigationber .login{    color: orange;
+    cursor: pointer;
+    border: 1px solid orange;
+    margin-top: 2px;
+    border-radius: 47px;
+    background: white;}
+h3,p{
+   color: #efefefab;
+   padding: 16px;
+   text-align: center;
+   font-family: arial;
+   -webkit-box-shadow: 0px 0px 3px 0px black;
+   box-shadow: 0px 0px 3px 0px black;
+   border-radius: 8px;
+   background: #a5a3a3;
+   }
+h3:hover{background:#ffffff6b;color:black;-webkit-transition:all 1s;transition:all 1s;}
+p:hover{background:#ffffff6b;color:black;-webkit-transition:all 1s;transition:all 1s;}
+	.navigationber input:hover{ -webkit-transition:all .4s; transition:all .4s;   color: orange;
+    cursor: pointer;
+    border: 1px solid orange;
+    margin-top: 2px;
+    border-radius: 47px;
+    background: white;}
+	.navigationber2 input:hover{color:orange;cursor:pointer;    color: orange;
+    cursor: pointer;
+    -webkit-transition: all 0.4s;
+    transition: all 0.4s}
+	.hover{background:#ffffff6b;display: inline-block;overflow: hidden;margin-top: -1px;width: 100%;}
+.hover:hover{-webkit-transform:scale(0.95);transform:scale(0.95);-webkit-transition:-webkit-transform .7s;transition:-webkit-transform .7s;transition:transform .7s;transition:transform .7s, -webkit-transform .7s}
+.image:hover{-webkit-transform:scale(0.95);transform:scale(0.95);-webkit-transition:-webkit-transform .7s;transition:-webkit-transform .7s;transition:transform .7s;transition:transform .7s, -webkit-transform .7s}
+
+.logo{
+    font-size: 50px;
+    float: left;
+    padding: 14px;
+    color: #b37373;
+    }
+.title1 {
+        font-size: 25px;
+    margin-top: 28px;
+    margin-left: 92px;
+    color: #b37373;
+    -webkit-box-shadow: 0 0 4px black;
+    box-shadow: 0 0 4px black;
+}.css{padding-left: 37px;}
+
+.webdesign{height:250px;}
+.htmldesign{height:250px;}
+.graficdesign{height:250px;}
+.cssdesign{height:250px;}
+.photodesign{height:250px;}
+.marketing{height:250px;}
+.webdesign,.htmldesign,.graficdesign,.cssdesign,.photodesign,.marketing{background: #95959557;float: left;margin: 72px;width: 300px;-webkit-box-shadow: 0 0 6px black;box-shadow: 0 0 6px black;}
+.firstdiv{    width: 100%;
+    height: 1076px;
+    background: #c6c2c2;}
+.services{color: green;
+    background: #ddd;
+    text-align: center;
+    font-family: arial;
+    font-size: 20px;
+    padding: 60px;}
+.element p{text-align: center;}
+
+.element {
+    margin-top: 32px;
+    padding: 10px;
+    text-transform: capitalize;
+		
+}
+	
+	
+	
+.ourservice {
+    padding: 32px;
+    font-size: 29px;
+}
+	
+	.element:hover{-webkit-transform:scale(.95);transform:scale(.95);-webkit-transition:-webkit-transform .3s;transition:-webkit-transform .3s;transition:transform .3s;transition:transform .3s, -webkit-transform .3s;cursor:pointer;}
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

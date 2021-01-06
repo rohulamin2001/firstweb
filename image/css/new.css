@@ -1,0 +1,14 @@
+*{margin:0;padding:0;}
+.button{font-family: arial;
+    background: #b6aaaa;
+    padding: 18px;
+    border: none;
+    margin-right: 0px;
+    display: block;}
+.firstdiv{display:inline-block}
+.dropdown{display:none}
+.dropdown li:hover{background:#ddd}
+.button:hover{background:#ddd;}
+.dropdown li{display:block;list-style-type:none;padding:10px;width:100px;color:red}
+.button:hover dropdown{display:block}
+.firstdiv:hover .dropdown{display:block}
